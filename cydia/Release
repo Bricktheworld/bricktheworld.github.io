@@ -1,8 +1,8 @@
-Origin: Bricktheworld's Beta Repo
-Label: Bricktheworld's Beta Repo
+Origin: Bricktheworld's Repo
+Label: Bricktheworld's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Bricktheworld's Beta Repo for testing
+Description: Bricktheworld's Repo for testing
