@@ -1,9 +1,0 @@
-Package: com.yourcompany.newtype
-Name: newtype
-Depends: mobilesubstrate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: System Administrator
-Author: Bricktheworld
-Section: Tweaks
