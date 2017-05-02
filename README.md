@@ -1,1 +1,0 @@
-./casle.sh commitMessageHere
